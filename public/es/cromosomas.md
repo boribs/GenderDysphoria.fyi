@@ -43,12 +43,21 @@ Hay muchas maneras en que los cromosomas pueden ser más complicados que solamen
 <!-- - [De la Chapelle Syndrome](https://en.wikipedia.org/wiki/XX_male_syndrome) (46,XX Male) occurs when the SRY gene from the sperm parent crosses over into a non-Y-bearing sperm during spermatogenesis. When the egg and sperm merge, it results in an XX embryo with an SRY gene, creating a phenotypical male child with two X chromosomes. -->
 - [De la Chapelle Syndrome\[EN\]](https://en.wikipedia.org/wiki/XX_male_syndrome) (46, XX masculino) ocurre cuando el gen SRY del esperma padre cruza sobre otro esperma que no contiene Y, durante la espermatogénesis. Cuando el óvulo y el esperma se juntan, resulta en un embrión XX con gen SRY, creando un hijo masculino fenotípico con dos cromosomas X.
 
-- [Swyer Syndrome](https://en.wikipedia.org/wiki/Swyer_syndrome) (46,XY Female) produces a phenotypically female child with an XY chromosome. This results from a dozen different genetic conditions, including:
+<!-- - [Swyer Syndrome](https://en.wikipedia.org/wiki/Swyer_syndrome) (46,XY Female) produces a phenotypically female child with an XY chromosome. This results from a dozen different genetic conditions, including: -->
+- [Síndrome de Swyer](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Swyer) (46, XY Femenino) produce un hijo femenino fenotípico con un cromosoma XY. Esto resulta de una docena de diferentes condiciones genéticas, incluyendo:
 
-  - Absence or defect of an SRY gene
-  - Absence or defect of [DHH](https://en.wikipedia.org/wiki/Desert_hedgehog_(protein)) synthesis
-  - Absence of the [SF-1](https://en.wikipedia.org/wiki/Steroidogenic_factor_1) protein due to adrenal failure
-  - Absence of or defect the [CBX2](https://en.wikipedia.org/wiki/CBX2_(gene)) gene, preventing TDF cascade
+  <!-- - Absence or defect of an SRY gene -->
+  - Ausencia o defecto de un gen SRY
+
+  <!-- - Absence or defect of [DHH](https://en.wikipedia.org/wiki/Desert_hedgehog_(protein)) synthesis -->
+  - Ausencia o defecto de síntesis de la proteína [DHH\[EN\]](https://en.wikipedia.org/wiki/Desert_hedgehog_(protein))
+
+  <!-- - Absence of the [SF-1](https://en.wikipedia.org/wiki/Steroidogenic_factor_1) protein due to adrenal failure -->
+  - Ausencia de la protenína [SF-1\[EN\]](https://en.wikipedia.org/wiki/Steroidogenic_factor_1) por insuficiencia suprarrenal
+
+  <!-- - Absence of or defect the [CBX2](https://en.wikipedia.org/wiki/CBX2_(gene)) gene, preventing TDF cascade -->
+  - Ausencia o defecto del gen [CBX2\[EN\]](https://en.wikipedia.org/wiki/CBX2_(gene)), evitando cascada TDF
+  <!-- How do I translate "preventing TDF cascade"? -->
 
 - [XX Gonadal Dysgenesis](https://en.wikipedia.org/wiki/XX_gonadal_dysgenesis) is very similar to Swyer Syndrome, except occurs in XX children and results in nonfunctional ovaries.
 
