@@ -40,7 +40,8 @@ tweets:
 <!-- There are dozens of ways that chromosomes can be much more complex than XX and XY. Medically these are referred to as DSDs ([Disorders of Sex Development](https://en.wikipedia.org/wiki/Disorders_of_sex_development)). Not all result in an intersex condition, and many only manifest at the onset of puberty. -->
 Hay muchas maneras en que los cromosomas pueden ser más complicados que solamente XX y XY. En términos médicos, se les conoce como DSDs ([Disorders of Sex Development\[EN\]](https://en.wikipedia.org/wiki/Disorders_of_sex_development)) o Desórdenes de Desarrollo Sexual, en español. No todos resultan en una condición intersex, y muchas pueden manifestarse únicamente durante los inicios de la pubertad.
 
-- [De la Chapelle Syndrome](https://en.wikipedia.org/wiki/XX_male_syndrome) (46,XX Male) occurs when the SRY gene from the sperm parent crosses over into a non-Y-bearing sperm during spermatogenesis. When the egg and sperm merge, it results in an XX embryo with an SRY gene, creating a phenotypical male child with two X chromosomes.
+<!-- - [De la Chapelle Syndrome](https://en.wikipedia.org/wiki/XX_male_syndrome) (46,XX Male) occurs when the SRY gene from the sperm parent crosses over into a non-Y-bearing sperm during spermatogenesis. When the egg and sperm merge, it results in an XX embryo with an SRY gene, creating a phenotypical male child with two X chromosomes. -->
+- [De la Chapelle Syndrome\[EN\]](https://en.wikipedia.org/wiki/XX_male_syndrome) (46, XX masculino) ocurre cuando el gen SRY del esperma padre cruza sobre otro esperma que no contiene Y, durante la espermatogénesis. Cuando el óvulo y el esperma se juntan, resulta en un embrión XX con gen SRY, creando un hijo masculino fenotípico con dos cromosomas X.
 
 - [Swyer Syndrome](https://en.wikipedia.org/wiki/Swyer_syndrome) (46,XY Female) produces a phenotypically female child with an XY chromosome. This results from a dozen different genetic conditions, including:
 
